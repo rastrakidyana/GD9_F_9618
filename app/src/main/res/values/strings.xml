@@ -1,0 +1,24 @@
+<resources>
+    <!--Jangan lupa diganti disini-->
+    <string name="app_name">GD9_F_9618</string>
+    <string name="nama">Made Rastra Kidyana</string>
+    <string name="npm">180709618</string>
+    <string name="kelas">F</string>
+
+
+    <string-array name="jenisKelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="prodi">
+        <item>Teknik Sipil</item>
+        <item>Teknik Industri</item>
+        <item>Informatika</item>
+        <item>Ilmu Komunikasi</item>
+        <item>Arsitektur</item>
+    </string-array>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
